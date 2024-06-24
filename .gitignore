@@ -1,0 +1,1 @@
+-e ".DS_store\nnode_modules/\n_pycache_/\n*.pyc" 
