@@ -1,1 +1,1 @@
-"# Featured Products^^- Product 1 : $10^- Product 2 : $15^- Product 3 : $20" 
+"- Product 1 : $10^"  
