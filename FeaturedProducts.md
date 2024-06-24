@@ -1,1 +1,1 @@
--e "# Featured Products^^- Product 1 : $10^- Product 2 : $15^- Product 4 : $20" 
+"# Featured Products^^- Product 1 : $10^- Product 2 : $15^- Product 3 : $20" 
